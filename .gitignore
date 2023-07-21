@@ -8,3 +8,4 @@ bin/*.ap_
 *.o
 *.jar
 node_modules
+.env
